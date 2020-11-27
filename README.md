@@ -8,4 +8,4 @@ Google Play [UD Mobile](https://play.google.com/store/apps/details?id=com.univer
 
 
 ## Reporting an Issue
-Please open an [issue](https://github.com/universaldevices/UD-Mobile-Android-issue-tracking/issues).
+Please open an [issue](https://github.com/UniversalDevicesInc/UD-Mobile-Android/issues).
